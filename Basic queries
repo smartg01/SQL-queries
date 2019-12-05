@@ -11,3 +11,8 @@ DROP DATABASE databasename;
 #### Change DB beung used ###
 
 USE databasename
+
+####Amending Table####
+
+ALTER TABLE tablename
+ADD column datatype;
