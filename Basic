@@ -1,0 +1,13 @@
+#### New DB ####
+ 
+
+CREATE DATABASE databasename;
+
+
+####Delete DB ####
+
+DROP DATABASE databasename;
+
+#### Change DB beung used ###
+
+USE databasename
