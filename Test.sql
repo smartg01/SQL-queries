@@ -9,4 +9,4 @@ IF NOT EXISTS (
         WHERE name = N'Test '
 )
 CREATE DATABASE Test 
-GO 
+GO i
